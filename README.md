@@ -1,5 +1,6 @@
-
 ## Ex 01 -Simple Web Server using Spring Boot
+## Name: Madhuvathani V
+## Reg.No: 212223040107
 
 ## AIM:
 To develop a Simple Web Server using Spring Boot that can handle basic HTTP requests and return appropriate responses through RESTful endpoints.
@@ -130,6 +131,9 @@ public class HelloController {
 
 
 
-Output:
+## Output:
+<img width="1300" height="680" alt="image" src="https://github.com/user-attachments/assets/efee094b-d872-4a6e-8b92-963493cf0fa3" />
 
 
+## Result :
+Hence a simple webserver is created
